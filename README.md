@@ -38,8 +38,8 @@ Dans ce second exercice, vous allez modifier les lignes qui suivent dans le READ
 
 Noms des étudiants : 
 * PETTERSEN Joakim
-* Nom Prénom
-* Nom Prénom
+* LA ROZE Léa
+
 
 Date du jour : 28/01/2021
 
